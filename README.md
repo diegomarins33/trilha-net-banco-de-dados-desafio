@@ -89,3 +89,6 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 ![Exercicio 12](Imagens/12.png)
+
+SOLUÇÃO NO ARQUIVO SOLUTION-QUERYS.SQL
+✅ CONCLUÍDO EM 28/08/2024
